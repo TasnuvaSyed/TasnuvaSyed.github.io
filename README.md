@@ -1,1 +1,2 @@
-This is my portfolio demo static website. Going to improve this slowly
+Hi I am Tasnuva Syed. I am slowly developing my portfolio site. 
+This is the first time for me to use github. 
